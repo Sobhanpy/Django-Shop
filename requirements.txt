@@ -1,0 +1,13 @@
+asgiref==3.9.1
+certifi==2025.7.14
+charset-normalizer==3.4.2
+Django==5.2.4
+django-mail-templated==2.6.5
+idna==3.10
+jalali_core==1.0.0
+jdatetime==5.2.0
+pillow==11.3.0
+requests==2.32.4
+sqlparse==0.5.3
+typing_extensions==4.14.1
+urllib3==2.5.0
